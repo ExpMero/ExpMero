@@ -56,10 +56,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-<img alt="Instagram" src="https://img.shields.io/badge/i0_801-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-<img alt="Twitch" src="https://img.shields.io/badge/ExpMero-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/>
-<img alt="Twitter" src="https://img.shields.io/badge/i0_801-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-	<img alt="Discord" src="https://img.shields.io/badge/Exp%230001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+<img alt="Twitch" src="https://img.shields.io/badge/i_8xp%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/>
+<img alt="Twitter" src="https://img.shields.io/badge/i_8xp-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+<img alt="Discord" src="https://img.shields.io/badge/8xp-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 
