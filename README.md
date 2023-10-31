@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=ExpMero.ExpMero">
+  <img alt="years" src="https://badges.pufler.dev/years/ExpMero">
+
 </p>
+
+
 
 <h2 align="center">Languages</h2>
 
